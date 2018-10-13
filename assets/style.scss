@@ -29,5 +29,7 @@ body {
 }
 h2 {
   // offset nav bar
-  padding-top: 75px;
+  $offset: 75px;
+  margin-top: -$offset;
+  padding-top: $offset;
 }
