@@ -57,15 +57,28 @@ We will be having meals at camp for Friday dinner through Sunday brunch. We woul
 * Bed linens
 * Pillow
 * Towel
+* Sunscreen
+* Bug spray
+* Meals
+* Snacks
+* Beverages
 
 ### What to bring
 
-* Shoes and clothes that can get dirty and you can move around in
-* Warm and/or cold weather clothes - it's September, so weather can go either way
+* Clothes that can get dirty and you can move around in
+* Sneakers / hiking shoes
+* Warm and/or cold weather clothes
+    * It's September, so weather can go either way
+* Swimsuit
+* Pajamas
+* Toiletries
+* Ridiculous camp attire
+    * Bonus points for onesies
 
 ### What not to bring
 
 * Heels
+    * Wedges & block heels ok
 * Laptops and other electronics
 
 ## Frequently asked questions (FAQ)
@@ -80,7 +93,7 @@ There are handicap-accessible rooms - make sure we are aware if you need one of 
 
 ### Are kids allowed?
 
-Absolutely! There are plenty of cabins if you need privacy for breastfeeding or whatever.
+Absolutely! There are plenty of cabins if you need privacy for breastfeeding or want to sequester your toddler.
 
 ### I can’t stay for the whole weekend - can I still come?
 
