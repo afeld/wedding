@@ -34,13 +34,14 @@ Greeley, PA
 
 Options:
 
-* Flying into an NYC airport, and taking the bus we are renting
+* Taking the wedding bus
     * Bus will leave NYC early afternoon Friday and stop at Newark on the way, and do the reverse Sunday afternoon - more details forthcoming
 * Driving directly
 * Flying to one of the following and renting a car:
     * Wilkes-Barre/Scranton (AVP) - 1 hr. drive
     * Stewart (SWF) - 1 hr. drive
-    * Newark (EWR) - 2 hr. drive
+    * Lehigh Valley (ABE) - 1.5 hr. drive
+    * Newark Liberty (EWR) - 2 hr. drive
     * John F. Kennedy (JFK) - 2.5 hr. drive
     * LaGuardia (LGA) - 2.5 hour drive
 
