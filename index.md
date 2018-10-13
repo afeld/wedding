@@ -7,8 +7,8 @@ Aidan & Biscuit
 
 ## The basics
 
-Sept 20-22, 2019
-[Camp Timber Tops](https://goo.gl/maps/y4kaPXRxMxT2)
+Sept 20-22, 2019<br>
+[Camp Timber Tops](https://goo.gl/maps/y4kaPXRxMxT2)<br>
 Greeley, PA
 
 ## Schedule
@@ -39,12 +39,12 @@ Options:
 * Flying into an NYC airport, and taking the bus we are renting
     * Bus will leave NYC early afternoon Friday and stop at Newark on the way, and do the reverse Sunday afternoon - more details forthcoming
 * Driving directly
-* Flying to one of the following, and renting a car:
+* Flying to one of the following and renting a car:
     * Wilkes-Barre/Scranton (AVP) - 1 hr. drive
     * Stewart (SWF) - 1 hr. drive
     * Newark (EWR) - 2 hr. drive
-    * JFK - 2.5 hr. drive
-    * LaGuardia - 2.5 hour drive
+    * John F. Kennedy (JFK) - 2.5 hr. drive
+    * LaGuardia (LGA) - 2.5 hour drive
 
 ## Food and lodging
 
