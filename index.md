@@ -3,8 +3,6 @@ title: Home
 permalink: /
 ---
 
-Aidan & Biscuit
-
 ## The basics
 
 Sept 20-22, 2019<br>
