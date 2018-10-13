@@ -9,7 +9,17 @@ body {
   background-image: url("https://placekitten.com/1440/800");
   background-size: cover;
   color: white;
-  height: 90vh;
+  height: 80vh;
+  position: relative;
+  text-shadow: black 1px 1px 10px;
+  .jumbotron-cover {
+    background-color: hsla(186, 100%, 64%, 0.65);
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
   .container {
     height: 100%;
   }
