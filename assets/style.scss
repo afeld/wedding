@@ -5,6 +5,18 @@ body {
   // for scrollspy
   position: relative;
 }
+.jumbotron {
+  background-image: url("https://placekitten.com/1440/800");
+  background-size: cover;
+  color: white;
+  height: 90vh;
+  .container {
+    height: 100%;
+  }
+  .row {
+    height: 100%;
+  }
+}
 h2 {
   // offset nav bar
   padding-top: 75px;

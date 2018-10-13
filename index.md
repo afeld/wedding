@@ -3,12 +3,6 @@ title: Home
 permalink: /
 ---
 
-## The basics
-
-Sept 20-22, 2019<br>
-[Camp Timber Tops](https://goo.gl/maps/y4kaPXRxMxT2)<br>
-Greeley, PA
-
 ## Schedule
 
 [Detailed version.](https://docs.google.com/spreadsheets/d/1K9dkzbGwUyas4RwjlyMeT2W_QGIkFWSuil9DN-9U4us/edit?usp=sharing) The basics:
