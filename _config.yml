@@ -1,9 +1,5 @@
 title: Aidan <3 Biscuit
-description: After twelve years, we're gettin' hitched!
-
 markdown: kramdown
-theme: jekyll-theme-cayman
-
 defaults:
   - scope:
       path: ""
