@@ -26,7 +26,7 @@ permalink: /
 
 ## Getting there
 
-Options:
+The entire wedding weekend is at [Camp Timber Tops](https://goo.gl/maps/y4kaPXRxMxT2), Greeley, PA. Travel options:
 
 * Taking the wedding bus
     * Bus will leave NYC early afternoon Friday and stop at Newark on the way, and do the reverse Sunday afternoon - more details forthcoming
