@@ -12,6 +12,10 @@ body {
   height: 80vh;
   position: relative;
   text-shadow: black 1px 1px 10px;
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
   .jumbotron-cover {
     background-color: hsla(186, 100%, 64%, 0.65);
     bottom: 0;
