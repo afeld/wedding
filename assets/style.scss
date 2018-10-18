@@ -15,20 +15,14 @@ body {
   height: 80vh;
   position: relative;
   text-shadow: black 1px 1px 10px;
-  .jumbotron-cover {
-    background-color: hsla(186, 100%, 64%, 0.65);
-    bottom: 0;
-    left: 0;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .container {
-    height: 100%;
-  }
-  .row {
-    height: 100%;
-  }
+}
+.jumbotron-cover {
+  background-color: hsla(186, 100%, 64%, 0.65);
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
 }
 h2 {
   // offset nav bar
