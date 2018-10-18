@@ -36,6 +36,9 @@ The entire wedding weekend is at [Camp Timber Tops](https://goo.gl/maps/y4kaPXRx
 
 ### Airports
 
+{::options parse_block_html="true" /}
+<div class="row">
+<div class="col-lg-8">
 Name | Code | Drive time to camp (hours)
 --- | --- | ---
 Wilkes-Barre/Scranton | AVP | 1
@@ -45,6 +48,8 @@ Newark Liberty | EWR | 2
 John F. Kennedy | JFK | 2.5
 LaGuardia | LGA | 2.5
 {: .table .table-sm}
+</div>
+</div>
 
 ## Food and lodging
 
