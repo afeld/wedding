@@ -79,6 +79,9 @@ We will be having meals at camp for Friday dinner through Sunday brunch. We woul
 
 Yes! There's dirt and trees and _everything_. There will be bonfires, canoeing, crafts, a ropes course...all the things you did at summer camp, or at least saw in movies. Don't worry: it's not _too_ rustic: there's still walls and hot meals and toilets.
 
+<iframe class="video" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/yz6gtTrzZzA"
+      frameborder="0"></iframe>
+
 ### I have mobility issues - will I be able to get around?
 
 There are handicap-accessible rooms - make sure we are aware if you need one of these. We will also have access to golf carts to get you around camp.
