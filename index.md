@@ -49,32 +49,29 @@ We will be having meals at camp for Friday dinner through Sunday brunch. We woul
 
 ### What's provided
 
-* Bed linens
-* Pillow
-* Towel
-* Sunscreen
-* Bug spray
-* Meals
-* Snacks
-* Beverages
+* :bed: Bed linens
+* :zzz: Pillow
+* :shower: Towel
+* :sunglasses: Sunscreen
+* :bug: Bug spray
+* :fork_and_knife: Meals
+* :doughnut: Snacks
+* :tropical_drink: Beverages
 
 ### What to bring
 
-* Clothes that can get dirty and you can move around in
-* Sneakers / hiking shoes
-* Warm and/or cold weather clothes
-    * It's September, so weather can go either way
-* Swimsuit
-* Pajamas
-* Toiletries
-* Ridiculous camp attire
-    * Bonus points for onesies
+* :running: Clothes that can get dirty and you can move around in
+* :shoe: Sneakers / hiking shoes
+* :hotsprings: Warm and/or cold weather clothes - it's September, so weather can go either way
+* :bikini: Swimsuit
+* :bear: Pajamas
+* :potable_water: Toiletries
+* :bowtie: Ridiculous camp attire - bonus points for onesies
 
 ### What not to bring
 
-* Heels
-    * Wedges & block heels ok
-* Laptops and other electronics
+* :high_heel: Heels - wedges & block heels ok
+* :computer: Laptops and other electronics
 
 ## Frequently asked questions (FAQ)
 
