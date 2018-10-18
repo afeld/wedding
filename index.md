@@ -9,20 +9,20 @@ permalink: /
 
 ### Friday 9/20/18
 
-* Early afternoon: (Optional) bus from NYC & Newark airport
-* Afternoon: Arrive
-* 7pm: Dinner
+* **Early afternoon:** (Optional) bus from NYC & Newark airport
+* **Afternoon:** Arrive
+* **7pm:** Dinner
 
 ### Saturday 9/21/18
 
-* Daytime: Breakfast, lunch, and camp activities
-* 5:30pm: Ceremony
-* Evening: Dinner, dancing, and merriment
+* **Daytime:** Breakfast, lunch, and camp activities
+* **5:30pm:** Ceremony
+* **Evening:** Dinner, dancing, and merriment
 
 ### Sunday 9/22/18
 
-* Morning: Brunch
-* Noon: (Optional) bus back to NYC and Newark airport
+* **Morning:** Brunch
+* **Noon:** (Optional) bus back to NYC and Newark airport
 
 ## Getting there
 
