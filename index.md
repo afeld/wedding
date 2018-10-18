@@ -94,7 +94,7 @@ Yes! There's dirt and trees and _everything_. There will be bonfires, canoeing, 
 <div class="row">
 <div class="col-md-8">
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="video" type="text/html" src="https://www.youtube.com/embed/yz6gtTrzZzA?mute=1" frameborder="0"></iframe>
+<iframe class="video" type="text/html" src="https://www.youtube.com/embed/yz6gtTrzZzA?mute=1" frameborder="0" title="Flythrough video of Camp Timber Tops"></iframe>
 </div>
 </div>
 </div>
