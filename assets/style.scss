@@ -47,5 +47,10 @@ h3 {
 .travel {
   background-image: url("Alex&AidanEngagement-159.jpg");
   background-position-y: bottom;
-  padding-bottom: 24rem;
+  padding-bottom: 60vh;
+  text-shadow: black 1px 2px 3px;
+  @media (min-width: 768px) {
+    // Bootstrap medium
+    padding-bottom: 40vh;
+  }
 }
