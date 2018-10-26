@@ -28,33 +28,27 @@ permalink: /
     </div>
   </section>
   <section class="travel pt-4 bg-img text-white">
-    <!-- <div class="color-overlay"></div> -->
     <div class="container">
       <div class="row">
         <div class="col-md-5 col-xl-4">
-          {% capture travel_include %}{% include travel.md %}{% endcapture %}
-          {{ travel_include | markdownify }}
+          {% include md.html file="travel" %}
         </div>
         <div class="col-md-4 offset-md-3 offset-xl-4">
           <h3>Airports</h3>
-          {% capture airports_include %}{% include airports.md %}{% endcapture %}
-          {{ airports_include | markdownify }}
+          {% include md.html file="airports" %}
         </div>
       </div>
     </div>
   </section>
   <div class="container">
     <section>
-      {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
-      {{ lodging_include | markdownify }}
+      {% include md.html file="lodging" %}
     </section>
     <section>
-      {% capture packing_include %}{% include packing.md %}{% endcapture %}
-      {{ packing_include | markdownify }}
+      {% include md.html file="packing" %}
     </section>
     <section>
-      {% capture faq_include %}{% include faq.md %}{% endcapture %}
-      {{ faq_include | markdownify }}
+      {% include md.html file="faq" %}
     </section>
   </div>
 </main>
