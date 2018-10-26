@@ -1,0 +1,34 @@
+---
+title: Home
+permalink: /
+---
+
+<div class="jumbotron jumbotron-fluid text-white">
+  <div class="jumbotron-cover"></div>
+  <div class="container h-100">
+    <div class="row h-100 align-items-center">
+      <div class="col text-center">
+        <h1>After twelve years,<br>Aidan and Biscuit are getting hitched!</h1>
+        <p>
+          Sept 20-22, 2019, <a href="https://goo.gl/maps/y4kaPXRxMxT2">Camp Timber Tops, Greeley, PA</a>
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
+  {{ schedule_include | markdownify }}
+
+  {% capture travel_include %}{% include travel.md %}{% endcapture %}
+  {{ travel_include | markdownify }}
+
+  {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
+  {{ lodging_include | markdownify }}
+
+  {% capture packing_include %}{% include packing.md %}{% endcapture %}
+  {{ packing_include | markdownify }}
+
+  {% capture faq_include %}{% include faq.md %}{% endcapture %}
+  {{ faq_include | markdownify }}
+</div>
