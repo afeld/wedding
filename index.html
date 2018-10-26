@@ -24,10 +24,23 @@ permalink: /
     </div>
     <div class="col-lg-8 bg-img"></div>
   </div>
-
-  {% capture travel_include %}{% include travel.md %}{% endcapture %}
-  {{ travel_include | markdownify }}
-
+</div>
+<div class="travel pt-4 bg-img text-white">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-5">
+        {% capture travel_include %}{% include travel.md %}{% endcapture %}
+        {{ travel_include | markdownify }}
+      </div>
+      <div class="col-md-4 offset-md-3">
+        <h3>Airports</h3>
+        {% capture airports_include %}{% include airports.md %}{% endcapture %}
+        {{ airports_include | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
   {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
   {{ lodging_include | markdownify }}
 
