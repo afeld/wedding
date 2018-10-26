@@ -40,15 +40,27 @@ permalink: /
       </div>
     </div>
   </section>
-  <div class="container">
-    <section>
-      {% include md.html file="lodging" %}
-    </section>
-    <section>
-      {% include md.html file="packing" %}
-    </section>
-    <section>
-      {% include md.html file="faq" %}
-    </section>
-  </div>
+  <section class="container">
+    {% include md.html file="lodging" %}
+  </section>
+  <section class="container packing">
+    <h2>Packing</h2>
+    <div class="row">
+      <div class="col-lg-3 p-4">
+        {% include md.html file="provided" %}
+      </div>
+      <div class="col-lg-5 bg-img img1"></div>
+      <div class="col-lg-4 p-4">
+        {% include md.html file="leave" %}
+      </div>
+      <div class="col-lg-3 bg-img img2"></div>
+      <div class="col-lg-5 p-4">
+        {% include md.html file="bring" %}
+      </div>
+      <div class="col-lg-4 bg-img img3"></div>
+    </div>
+  </section>
+  <section class="container">
+    {% include md.html file="faq" %}
+  </section>
 </main>
