@@ -21,6 +21,9 @@ body {
   right: 0;
   top: 0;
 }
+nav {
+  filter: drop-shadow(0 2px 4px black);
+}
 .jumbotron {
   background-image: url("Alex&AidanEngagement-92.jpg");
   height: 80vh;
