@@ -3,7 +3,7 @@ title: Home
 permalink: /
 ---
 
-<div class="jumbotron bg-img text-white">
+<header class="jumbotron jumbotron-fluid bg-img text-white">
   <div class="container">
     <div class="row align-items-center">
       <div class="col text-center">
@@ -14,39 +14,47 @@ permalink: /
       </div>
     </div>
   </div>
-</div>
-<div class="container">
-  <div class="row schedule">
-    <div class="col-lg-4 p-5 bg-dark text-white">
-      {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
-      {{ schedule_include | markdownify }}
+</header>
+<main>
+  <section class="bg-dark text-white">
+    <div class="container">
+      <div class="row schedule">
+        <div class="col-lg-4 p-5">
+          {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
+          {{ schedule_include | markdownify }}
+        </div>
+        <div class="col-lg-8 bg-img"></div>
+      </div>
     </div>
-    <div class="col-lg-8 bg-img"></div>
-  </div>
-</div>
-<div class="travel pt-4 bg-img text-white">
-  <!-- <div class="color-overlay"></div> -->
+  </section>
+  <section class="travel pt-4 bg-img text-white">
+    <!-- <div class="color-overlay"></div> -->
+    <div class="container">
+      <div class="row">
+        <div class="col-md-5 col-xl-4">
+          {% capture travel_include %}{% include travel.md %}{% endcapture %}
+          {{ travel_include | markdownify }}
+        </div>
+        <div class="col-md-4 offset-md-3 offset-xl-4">
+          <h3>Airports</h3>
+          {% capture airports_include %}{% include airports.md %}{% endcapture %}
+          {{ airports_include | markdownify }}
+        </div>
+      </div>
+    </div>
+  </section>
   <div class="container">
-    <div class="row">
-      <div class="col-md-5 col-xl-4">
-        {% capture travel_include %}{% include travel.md %}{% endcapture %}
-        {{ travel_include | markdownify }}
-      </div>
-      <div class="col-md-4 offset-md-3 offset-xl-4">
-        <h3>Airports</h3>
-        {% capture airports_include %}{% include airports.md %}{% endcapture %}
-        {{ airports_include | markdownify }}
-      </div>
-    </div>
+    <section>
+      {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
+      {{ lodging_include | markdownify }}
+    </section>
+    <section>
+      {% capture packing_include %}{% include packing.md %}{% endcapture %}
+      {{ packing_include | markdownify }}
+    </section>
+    <section>
+      {% capture faq_include %}{% include faq.md %}{% endcapture %}
+      {{ faq_include | markdownify }}
+    </section>
   </div>
-</div>
-<div class="container">
-  {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
-  {{ lodging_include | markdownify }}
-
-  {% capture packing_include %}{% include packing.md %}{% endcapture %}
-  {{ packing_include | markdownify }}
-
-  {% capture faq_include %}{% include faq.md %}{% endcapture %}
-  {{ faq_include | markdownify }}
-</div>
+</main>
