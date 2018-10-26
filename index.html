@@ -17,8 +17,13 @@ permalink: /
   </div>
 </div>
 <div class="container">
-  {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
-  {{ schedule_include | markdownify }}
+  <div class="row schedule">
+    <div class="col-lg-4 p-5 bg-dark text-white">
+      {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
+      {{ schedule_include | markdownify }}
+    </div>
+    <div class="col-lg-8 bg-img"></div>
+  </div>
 
   {% capture travel_include %}{% include travel.md %}{% endcapture %}
   {{ travel_include | markdownify }}
