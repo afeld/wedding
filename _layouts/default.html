@@ -52,6 +52,21 @@
     </div>
   </div>
   <div class="container">
+    {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
+    {{ schedule_include | markdownify }}
+
+    {% capture travel_include %}{% include travel.md %}{% endcapture %}
+    {{ travel_include | markdownify }}
+
+    {% capture lodging_include %}{% include lodging.md %}{% endcapture %}
+    {{ lodging_include | markdownify }}
+
+    {% capture packing_include %}{% include packing.md %}{% endcapture %}
+    {{ packing_include | markdownify }}
+
+    {% capture faq_include %}{% include faq.md %}{% endcapture %}
+    {{ faq_include | markdownify }}
+
     {{ content }}
   </div>
   <footer class="text-center bg-secondary text-white mt-5 p-3">
