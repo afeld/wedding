@@ -7,3 +7,5 @@ defaults:
       layout: "default"
 plugins:
   - jemoji
+sass:
+  sass_dir: assets

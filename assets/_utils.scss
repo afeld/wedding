@@ -1,0 +1,30 @@
+body {
+  // for scrollspy
+  position: relative;
+}
+.text-white a {
+  color: inherit;
+  text-decoration: underline;
+}
+.bg-img {
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+}
+.color-overlay {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+h2,
+h3 {
+  // offset nav bar
+  $offset: 60px;
+  margin-top: -$offset;
+  padding-top: $offset;
+}
+.video {
+  max-width: 100%;
+}

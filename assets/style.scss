@@ -1,26 +1,7 @@
 ---
 ---
 
-body {
-  // for scrollspy
-  position: relative;
-}
-.text-white a {
-  color: inherit;
-  text-decoration: underline;
-}
-.bg-img {
-  background-position: center center;
-  background-size: cover;
-  position: relative;
-}
-.color-overlay {
-  bottom: 0;
-  left: 0;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
+@import "utils";
 nav {
   filter: drop-shadow(0 2px 4px black);
 }
@@ -29,16 +10,6 @@ nav {
   height: 80vh;
   margin-bottom: 0;
   text-shadow: black 1px 1px 10px;
-}
-h2,
-h3 {
-  // offset nav bar
-  $offset: 60px;
-  margin-top: -$offset;
-  padding-top: $offset;
-}
-.video {
-  max-width: 100%;
 } // sections
 .schedule .bg-img {
   background-image: url("Alex&AidanEngagement-156.jpg");
