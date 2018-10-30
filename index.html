@@ -7,7 +7,7 @@ permalink: /
   <div class="container">
     <div class="row align-items-center">
       <div class="col text-center">
-        <h1>After twelve years,<br>Aidan and Biscuit are getting hitched!</h1>
+        <h1>Aidan + Biscuit</h1>
         <p>
           Sept 20-22, 2019, <a href="https://goo.gl/maps/y4kaPXRxMxT2">Camp Timber Tops, Greeley, PA</a>
         </p>
@@ -16,12 +16,20 @@ permalink: /
   </div>
 </header>
 <main>
+  <section>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 offset-md-2 p-5">
+          {% include md.html file="intro" %}
+        </div>
+      </div>
+    </div>
+  </section>
   <section class="bg-dark text-white">
     <div class="container">
       <div class="row schedule">
         <div class="col-lg-4 p-5">
-          {% capture schedule_include %}{% include schedule.md %}{% endcapture %}
-          {{ schedule_include | markdownify }}
+          {% include md.html file="schedule" %}
         </div>
         <div class="col-lg-8 bg-img"></div>
       </div>
