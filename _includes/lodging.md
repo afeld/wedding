@@ -16,4 +16,4 @@ But never fear! You'll be staying in fully enclosed cabins with running water an
 
 Need to keep the family of four together? Need to _not_ room with your brother? Let us know about any specific bunking needs when you RSVP.
 
-Still can't stomach the idea of staying at camp? There are hotels and Airbnb options nearby, but we'll hope you'll reconsider. Please reach out if we can help put your mind at ease about staying with us for the weekend.
+Still can't stomach the idea of staying at camp? There are [hotels](https://www.google.com/maps/search/hotel/@41.4025776,-75.165792,11z/data=!3m1!4b1!4m8!2m7!3m6!1shotel!2sCamp+Timber+Tops,+1620+Route+6,+Greeley,+PA+18425!3s0x89c4a6222812e7bf:0xb4314d057566099c!4m2!1d-75.0395045!2d41.403817) and [Airbnb](https://www.airbnb.com/s/Greeley--PA--United-States/homes?checkin=2019-09-20&checkout=2019-09-22) options nearby, but we'll hope you'll reconsider. Please reach out if we can help put your mind at ease about staying with us for the weekend.
