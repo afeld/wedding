@@ -1,20 +1,30 @@
-## Schedule
+## Weekend itinerary
 
-[Detailed version.](https://docs.google.com/spreadsheets/d/1K9dkzbGwUyas4RwjlyMeT2W_QGIkFWSuil9DN-9U4us/edit?usp=sharing) The basics:
+Yes you read that right, this is a weekend-long event. We’d LOVE for you to attend for the whole shebang.
 
-### Friday 9/20/18
+### Friday
 
-* **Early afternoon:** (Optional) bus from NYC & Newark airport
-* **Afternoon:** Arrive
-* **7pm:** Dinner
+* **Early afternoon:** Arrive at camp (see [getting here]({{site.baseurl}}/#getting-there) for details, including NYC & airport shuttle options)
+* **Afternoon:** Welcome activities
+* **Late afternoon:** Welcome activities
+* **7pm:** Dinner in the grove
+* **Night:** Campfire s'mores & sing-a-longs
 
-### Saturday 9/21/18
+### Saturday
 
-* **Daytime:** Breakfast, lunch, and camp activities
-* **5:30pm:** Ceremony
-* **Evening:** Dinner, dancing, and merriment
+* **First thing:** Yoga
+* **Morning:** Breakfast! Lake time! Arts and Crafts! Kickball! Contact Improv!
+* **Midday:** Picnic lunch
+* **Afternoon:** Ropes course! Gaga! Friendship bracelets! Hiking!
+* **Late afternoon:** [Dress up]({{site.baseurl}}/#what-not-to-bring) time
+* **~5:30pm:** Lakeside ceremony and drinks
+* **Evening:** Dinner and dancing at the lodge
+* **Night:** Bonfire
 
-### Sunday 9/22/18
+### Sunday
 
 * **Morning:** Brunch
-* **Noon:** (Optional) bus back to NYC and Newark airport
+* **Late morning:** Farewell activity
+* **Noon:** Outta here
+
+See the [detailed version](https://docs.google.com/spreadsheets/d/1K9dkzbGwUyas4RwjlyMeT2W_QGIkFWSuil9DN-9U4us/edit?usp=sharing) for more.
