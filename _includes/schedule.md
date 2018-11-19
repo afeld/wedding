@@ -1,8 +1,4 @@
-## Weekend itinerary
-
-Yes you read that right, this is a weekend-long event. We’d LOVE for you to attend for the whole shebang.
-
-### Friday
+## Friday
 
 * **Early afternoon:** Arrive at camp (see [getting here]({{site.baseurl}}/#getting-there) for details, including NYC & airport shuttle options)
 * **Afternoon:** Welcome activities
@@ -10,7 +6,7 @@ Yes you read that right, this is a weekend-long event. We’d LOVE for you to at
 * **7pm:** Dinner in the grove
 * **Night:** Campfire s'mores & sing-a-longs
 
-### Saturday
+## Saturday
 
 * **First thing:** Yoga
 * **Morning:** Breakfast! Lake time! Arts and Crafts! Kickball! Contact Improv!
@@ -21,7 +17,7 @@ Yes you read that right, this is a weekend-long event. We’d LOVE for you to at
 * **Evening:** Dinner and dancing at the lodge
 * **Night:** Bonfire
 
-### Sunday
+## Sunday
 
 * **Morning:** Brunch
 * **Late morning:** Farewell activity
