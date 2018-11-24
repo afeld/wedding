@@ -21,6 +21,7 @@
   </head>
 
   <body data-spy="scroll" data-target="nav">
+    {% unless page.path == 'index.html' %}
     <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
       <a class="navbar-brand" href="{{ site.baseurl }}/#top"
         >Aidan &lt;3 Biscuit</a
@@ -52,7 +53,7 @@
         </ul>
       </div>
     </nav>
-    {{ content }}
+    {% endunless %} {{ content }}
     <footer class="text-center bg-secondary text-white mt-5 p-3">
       <div class="container">
         <a href="https://github.com/afeld/wedding">Open source</a>, of course.
