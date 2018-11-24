@@ -1,10 +1,18 @@
+$tan: #d9dad9;
+
 body {
+  background-color: $tan;
+  font-family: "Quicksand", sans-serif;
+
   // for scrollspy
   position: relative;
 }
-.text-white a {
-  color: inherit;
-  text-decoration: underline;
+.text-light {
+  color: $tan;
+  a {
+    color: inherit;
+    text-decoration: underline;
+  }
 }
 .bg-img {
   background-position: center center;
@@ -17,6 +25,11 @@ body {
   position: absolute;
   right: 0;
   top: 0;
+}
+h1,
+h2,
+h3 {
+  font-family: "Patrick Hand SC", cursive;
 }
 h2,
 h3 {

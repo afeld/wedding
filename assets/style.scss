@@ -2,19 +2,13 @@
 ---
 
 @import "utils";
-body {
-  font-family: "Quicksand", sans-serif;
-}
-h1,
-h2,
-h3 {
-  font-family: "Patrick Hand SC", cursive;
-}
+
 nav {
   filter: drop-shadow(0 2px 4px black);
 }
 .jumbotron {
   background-image: url("Alex&AidanEngagement-92.jpg");
+  color: $tan;
   height: 80vh;
   margin-bottom: 0;
   padding-top: 3rem;
